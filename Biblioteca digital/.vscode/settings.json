@@ -1,0 +1,17 @@
+{
+    "files.associations": {
+        "p_estructurada.C": "cpp",
+        "poo.C": "cpp",
+        "p_secuencial.C": "cpp",
+        "p_procerural.C": "cpp",
+        "p_procedural.C": "cpp",
+        "p_logica.C": "cpp",
+        "p_funcional.C": "cpp",
+        "pbr.C": "cpp",
+        "p_concurrente.C": "cpp",
+        "poa.C": "cpp",
+        "pbc.C": "cpp",
+        "p_declarativa.C": "cpp",
+        "p_reactiva.C": "cpp"
+    }
+}

@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "strlen.C": "cpp",
+        "strcmp.C": "cpp"
+    }
+}
